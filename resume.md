@@ -1,100 +1,118 @@
-Johnny Coder
+Brooks Garrett
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I'm a versatile technologist with a deep understanding of IT and Information Security.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2004-2009
+:   **BBA, Information Systems, Enterprise Security Emphasis**; \
+    Georgia Southern University (Statesboro, GA)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Hewlett Packard Enterprise, Fortify on Demand,** *Information System Security Officer* \
+*January 2016 - Present*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I am responsible for developing formal policies, procedures, and standards governing the 
+security functions within FoD. This position requires a strong ability to communicate well 
+and work with multiple teams to ensure changes are propagated across the organization and 
+all procedures are followed. I report directly to the Director of Fortify on Demand and 
+provide guidance on threat and risk management for the entire organization. After assuming 
+the role of ISSO I delivered ISO 27001 in under six months and 73% under budget. I have 
+maintained FedRAMP pATO with no significant findings for three consecutive years.
 
-* First item
+**Hewlett Packard Enterprise, Fortify on Demand,** *Integration Architect* \
+*March 2015 - January 2016*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Hewlett Packard Enterprise, Fortify on Demand,** *Global IT Operations Manager* \
+*January 2013 - March 2015*
 
-**That Other Job You Had**
+I managed the growth of the cloud service from one product in one datacenter to 5 products 
+across 6 global locations. I brought SLA violations due to infrastructure constraints to zero, 
+maintained 3 nines uptime across all data centers, and oversaw the architecture and design
+of products prior to launch.
 
-Also with a short description.
+**Hewlett Packard Enterprise, Fortify on Demand,** *Security Services Manager* \
+*November 2011 - January 2013*
+
+I managed the team responsible for the review and audit of all source code as the consultancy 
+transformedinto a cloud based application security service. The team saw a growth of over 10x 
+scan volume with no increase in SLA violation rates.
+
+**Hewlett Packard Enterprise, Fortify on Demand,** *Application Security Consultant* \
+*July 2011 - November 2011*
+
+I delivered on-site training and implementations of HP Application Security products and 
+services. I developed and presented application security trainings ranging from entry 
+level courses to advanced topics.
+
+**Aflac, Information Security,** *Systems Security Administrator* \
+*June 2009 - July 2011*
+
+I acted as a blue team member with responsibilities for log management, anti-virus 
+implementation, monthly patching, and IPS management. I designed and implemented the 
+initial incident response framework in use at Aflac and bootstrapped the cyberforensics 
+program. 
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Presentations
+:   **Advanced Infrastructure Hacking** \
+    The Advanced Infrastructure course will get the attendees familiarized with a wealth 
+    of hacking techniques for common Operating systems and networking devices.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Presented at BlackHat USA 2015, 2016, scheduled for 2017
+    * Acted as TA for class of over 100 students
+    * Supported lab design for first course in 2015
+    * Wrote Docker content for 2017
+    * https://www.blackhat.com/us-16/training/advanced-infrastructure-hacking-4-day.html
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   **Professional Incident Response** \
+    You built it; they broke it; now what? In this talk learn how to advance your incident 
+    response plan beyond a policy document and into a scalable framework that enables your 
+    team to respond, track, and report on incidents of every size by leveraging what professional 
+    responders do every single day.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    * Presented at HouSecCon 5.0
+    * https://brooksgarrett.com/talk/professional-incident-response/
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Dynamically controllable dynamic scanning** \
+    Security teams also wrestle with dynamic scanning. Demand is not always consistent, but 
+    hardware is expensive to purchase and maintain–only to sit idle. What if there were a way 
+    to automate dynamic scanning after each build in a continuous build environment while not 
+    leaving servers idle during periods of inactivity?
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+    * Presented at HP Protect 2014
+    * https://brooksgarrett.com/talk/distributed-dynamic-scanning/
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Languages
+:   
+    * NodeJS (React / Redux / Full stack)
+    * C#
+    * Go (GoLang)
+    * Ruby
+    * Python
+    * Java
+    * Rust
+
+Certifications
+:   
+    * GCIA (GIAC Certified Intrusion Analyst)
+    * GCCC (GIAC Critical Controls Certification )
+    * CISSP (ISC2 Certified Information Systems Security Professional)
+    * CSSLP (ISC2 Certified Software Security Lifecycle Professional)
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <brooks@brooksgarrett.com> • +1 (706)763 0093\
+> 4562 Amelia Cir - Hahira, GA 31632
