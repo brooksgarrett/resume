@@ -1,6 +1,6 @@
 before-install:
 - sudo apt install context pandoc make
-script: make all
+script: make prod
 branches:
   only:
   - master

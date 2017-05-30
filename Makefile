@@ -1,5 +1,7 @@
 all: html pdf docx rtf
 
+prod: html pdf
+
 pdf: resume.pdf
 resume.pdf: resume.md
 	pandoc --standalone --template style_chmduquesne.tex \
