@@ -1,5 +1,5 @@
 before_install:
-  - sudo apt install context pandoc make
+  - sudo apt install context pandoc make fonts-freefont-otf
 script: make prod
 branches:
   only:
