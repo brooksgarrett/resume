@@ -1,5 +1,5 @@
 before_install:
-  - sudo apt install context pandoc make fonts-freefont-otf
+  - sudo apt install context pandoc make texlive-fonts-recommended
 script: make prod
 branches:
   only:
