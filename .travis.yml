@@ -6,7 +6,7 @@ branches:
   - master
 deploy:
   provider: s3
-  no_cleanup: true
+  skip_cleanup: true
   access_key_id:
     secure: ajB9MFk9DcRDXOuz/RfmLgxUtWFrhgYubv5FyuRzfjxiHXMUOV6OKueDLpcT85TayW6XgytPFx8b/zfz2nZNXdGtiZGQZZNJs7S16WrFwHqeGhcpgUXhh+gwIFEQBUsNhFPY2gyrEcOHEO7tWjfRlWjXMshkyKRQSmOCS38W5uyDJlMQDqvfz0h7x1IxCu5pUjJqvnhfByLkhBr0Y6nIHEna9p2pAMfFTQ5adMGfKgMYA8K50NqvbGlcQFeY/xDIz8LtkT7IpJHY6G8LN1eQATBrZMrD6FJJylTSuKaHoDi0QOwydNdYsXzjP2i/xDzLKWA4yQ6OOfvzh4k4XSDjlXpnCmzWLvl/tts4A5NynqILID2B5Zrw8pWZCzv0lXUdGbFbB2dcB//X1kcvUzN0FENwWyr+xmON1ypKvgMDVfI7V63nDjVUcsNXgh9ZTP7iqHHKfS2B6LL5U9K22E5+E2ng64tt+udTBWpi49iqMDpi2lFW4Z3iaPsM9KxPEDR1VWw7CO6SIfDR6PFgbgGJFCdMs484/XmkR2M6BOP3CWbIB4IetUIQl/ojlqTIU7fzf0tPBJMGg1M3JydnOExwZgT8IIVleihlaqVxkIsvyV/3GnRSk9UTrLyc8BTKONK9/0VkquXlH4+HEQQleMOZ4NHhxmyiUVNLCBAEdrYhGWc=
   secret_access_key:
@@ -14,5 +14,5 @@ deploy:
   bucket: data.brooksgarrett.com
   endpoint: data.brooksgarrett.com.s3-website-us-east-1.amazonaws.com
   region: us-east-1
-  local-dir: _site
+  local-dir: build
   upload-dir: resume
