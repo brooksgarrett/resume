@@ -20,12 +20,11 @@ Experience
 **Hewlett Packard Enterprise, Fortify on Demand,** *Information System Security Officer* \
 *January 2016 - Present*
 
-I am responsible for developing formal policies, procedures, and standards governing the 
+Responsible to the Director for developing formal policies, procedures, and standards governing the 
 security functions within FoD. This position requires a strong ability to communicate well 
 and work with multiple teams to ensure changes are propagated across the organization and 
-all procedures are followed. I report directly to the Director of Fortify on Demand and 
-provide guidance on threat and risk management for the entire organization. After assuming 
-the role of ISSO I delivered ISO 27001 in under six months and 73% under budget. I have 
+all procedures are followed, and provide guidance on threat and risk management. After assuming 
+the role of ISSO I delivered ISO 27001 in under six months and 62% under budget. I have 
 maintained FedRAMP pATO with no significant findings for three consecutive years.
 
 **Hewlett Packard Enterprise, Fortify on Demand,** *Integration Architect* \
@@ -34,30 +33,30 @@ maintained FedRAMP pATO with no significant findings for three consecutive years
 **Hewlett Packard Enterprise, Fortify on Demand,** *Global IT Operations Manager* \
 *January 2013 - March 2015*
 
-I managed the growth of the cloud service from one product in one datacenter to 5 products 
-across 6 global locations. I brought SLA violations due to infrastructure constraints to zero, 
+Managed the growth of the cloud service from one product in one datacenter to 5 products 
+across 6 global locations. SLA violations due to infrastructure constraints reduced to zero, 
 maintained 3 nines uptime across all data centers, and oversaw the architecture and design
 of products prior to launch.
 
 **Hewlett Packard Enterprise, Fortify on Demand,** *Security Services Manager* \
 *November 2011 - January 2013*
 
-I managed the team responsible for the review and audit of all source code as the consultancy 
-transformedinto a cloud based application security service. The team saw a growth of over 10x 
+Managed the team responsible for the review and audit of all source code as the consultancy 
+transformed into a cloud based application security service. The team saw a growth of over 10x 
 scan volume with no increase in SLA violation rates.
 
 **Hewlett Packard Enterprise, Fortify on Demand,** *Application Security Consultant* \
 *July 2011 - November 2011*
 
-I delivered on-site training and implementations of HP Application Security products and 
-services. I developed and presented application security trainings ranging from entry 
+Delivered on-site training and implementations of HP Application Security products and 
+services. Developed and presented application security trainings ranging from entry 
 level courses to advanced topics.
 
 **Aflac, Information Security,** *Systems Security Administrator* \
 *June 2009 - July 2011*
 
-I acted as a blue team member with responsibilities for log management, anti-virus 
-implementation, monthly patching, and IPS management. I designed and implemented the 
+Acted as a blue team member with responsibilities for log management, anti-virus 
+implementation, monthly patching, and IPS management. Designed and implemented the 
 initial incident response framework in use at Aflac and bootstrapped the cyberforensics 
 program. 
 
@@ -93,15 +92,11 @@ Presentations
     * Presented at HP Protect 2014
     * https://brooksgarrett.com/talk/distributed-dynamic-scanning/
 
-Languages
+Compliance Frameworks
 :   
-    * NodeJS (React / Redux / Full stack)
-    * C#
-    * Go (GoLang)
-    * Ruby
-    * Python
-    * Java
-    * Rust
+    * NIST SP 800-53
+    * CIS Top 20 CSC
+    * ISO 27001 / 27002
 
 Certifications
 :   
