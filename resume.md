@@ -17,8 +17,17 @@ Education
 Experience
 ----------
 
+**Respond Software,** *Director, Customer Operations* \
+*July 2018 - Present*
+
+Responsible for implementing and managing the DevOps pipeline from commit to cloud of 
+all Production workloads including customer on-premise devices. Delivered significant 
+operational cost reductions by moving platform from single tenant clusters to kubernetes
+based shared infrastructure while maintaining clear logical segmentation of customer 
+workloads.
+
 **Hewlett Packard Enterprise, Fortify on Demand,** *Information System Security Officer* \
-*January 2016 - Present*
+*January 2016 - July 2018*
 
 Responsible to the Director for developing formal policies, procedures, and standards governing the 
 security functions within FoD. This position requires a strong ability to communicate well 
@@ -34,9 +43,9 @@ maintained FedRAMP pATO with no significant findings for three consecutive years
 *January 2013 - March 2015*
 
 Managed the growth of the cloud service from one product in one datacenter to 5 products 
-across 6 global locations. SLA violations due to infrastructure constraints reduced to zero, 
-maintained 3 nines uptime across all data centers, and oversaw the architecture and design
-of products prior to launch.
+across 6 global locations by leveraging the latest DevOps techniques. SLA violations due 
+to infrastructure constraints reduced to zero, maintained 3 nines uptime across all data 
+centers, and oversaw the architecture and design of products prior to launch.
 
 **Hewlett Packard Enterprise, Fortify on Demand,** *Security Services Manager* \
 *November 2011 - January 2013*
@@ -58,7 +67,7 @@ level courses to advanced topics.
 Acted as a blue team member with responsibilities for log management, anti-virus 
 implementation, monthly patching, and IPS management. Designed and implemented the 
 initial incident response framework in use at Aflac and bootstrapped the cyberforensics 
-program. 
+program.
 
 Technical Experience
 --------------------
@@ -104,6 +113,12 @@ Certifications
     * GCCC (GIAC Critical Controls Certification )
     * CISSP (ISC2 Certified Information Systems Security Professional)
     * CSSLP (ISC2 Certified Software Security Lifecycle Professional)
+
+Technology
+:
+    * Orchestration (Kubernetes, Nomad, Rancher)
+    * CICD (GitLab, CircleCI, TravisCI)
+    * Development (NodeJS, C#, GoLang, Python)
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
