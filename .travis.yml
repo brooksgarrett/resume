@@ -1,5 +1,6 @@
 before_install:
-  - sudo apt install context pandoc make texlive-fonts-recommended
+  - sudo apt update -y
+  - sudo apt -y install context pandoc make texlive-fonts-recommended
 script: 
   - make prod
   - mv resume.pdf build/resume.pdf
