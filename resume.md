@@ -101,6 +101,12 @@ Presentations
     * Presented at HP Protect 2014
     * https://brooksgarrett.com/talk/distributed-dynamic-scanning/
 
+Compliance Frameworks
+:   
+    * NIST SP 800-53
+    * CIS Top 20 CSC
+    * ISO 27001 / 27002
+
 Certifications
 :   
     * GCIA (GIAC Certified Intrusion Analyst)
@@ -109,7 +115,7 @@ Certifications
     * CSSLP (ISC2 Certified Software Security Lifecycle Professional)
 
 Technology
-:
+:   
     * Orchestration (Kubernetes, Nomad, Rancher)
     * CICD (GitLab, CircleCI, TravisCI)
     * Development (NodeJS, C#, GoLang, Python)
