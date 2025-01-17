@@ -18,7 +18,7 @@ Experience
 ----------
 
 **Respond Software,** *Director, Customer Operations* \
-*July 2018 - Present*
+*July 2018 - Novemeber 2022*
 
 Responsible for implementing and managing the DevOps pipeline from commit to cloud of 
 all Production workloads including customer on-premise devices. Delivered significant 
