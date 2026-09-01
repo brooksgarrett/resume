@@ -17,8 +17,27 @@ Education
 Experience
 ----------
 
+**Google,** *Customer Engineer* \
+*February 2025 - Present*
+
+Partnered with strategic enterprise Oil & Gas customers to architect and deploy highly 
+sophisticated, AI-centric multi-agent systems and scalable cloud solutions on Google Cloud 
+Platform. Designed and implemented production-ready autonomous agent frameworks and machine 
+learning pipelines that optimized industrial operations while maintaining rigorous security, 
+high availability, and performance standards.
+
+**Mandiant (acquired by Google),** *Director of DevOps, Product Engineering* \
+*November 2022 - February 2025*
+
+Assumed leadership of DevOps for Product Engineering across the Threat Intelligence and 
+Threat Surface product suites following the acquisition of Respond Software. Led the design 
+and engineering of the unified developer platform across all Mandiant products. Directly 
+managed the complex technical and operational transition of Mandiant's infrastructure, systems, 
+and engineering teams into Google following its $5.4B acquisition, ensuring seamless service 
+continuity and platform integration.
+
 **Respond Software,** *Director, Customer Operations* \
-*July 2018 - Novemeber 2022*
+*July 2018 - November 2022*
 
 Responsible for implementing and managing the DevOps pipeline from commit to cloud of 
 all Production workloads including customer on-premise devices. Delivered significant 
@@ -116,7 +135,8 @@ Certifications
 
 Technology
 :   
-    * Orchestration (Kubernetes, Nomad, Rancher)
+    * Cloud & Orchestration (Google Cloud Platform, Kubernetes, Nomad, Rancher)
+    * AI & Multi-Agent (Autonomous Multi-Agent Systems, LangChain, AutoGen)
     * CICD (GitLab, CircleCI, TravisCI)
     * Development (NodeJS, C#, GoLang, Python)
 
